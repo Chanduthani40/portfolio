@@ -1,0 +1,14 @@
+.carousel {
+    position: relative;
+    border: 2px solid black;
+  }
+  .carousel .item {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .carousel .active {
+    display: block;
+  }
+  

@@ -1,0 +1,21 @@
+.ReactModal__Content {
+    width: 500px; /* Set the desired width */
+    /* max-width: 80%;  */
+    margin: 0 auto;
+    /* padding-left: 10 ;  */
+
+  }
+  .px-container{
+    margin-left: 3% !important;
+
+  }
+  .css-1krvy0s{
+    margin-bottom: 22% !important;
+
+  } 
+
+
+  
+  /* .ReactModal__Overlay {
+    background-color: rgba(0, 0, 0, 0.5); 
+  } */
